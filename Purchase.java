@@ -27,7 +27,7 @@ public class Purchase {
 		Shelf tortillaShelf = new Shelf(10.3, 15.3);
 		Regular tortilla = new Regular("Tortilla", 4, tortillaShelf);
 		
-		//Product products[] = new Product[8];
+		
 		Product products[] = {couch, bed, chair, pillow, toothbrush, bread, honey, tortilla};
 		double total = 0;
 		
